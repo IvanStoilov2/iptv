@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Агро ТВ.bg" tvg-logo="",Agro TV
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
 
-#EXTINF:-1 tvg-id="БНТ 1 HD.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_of_BNT_1_%282018-%29.svg",BNT 1
+#EXTINF:-1 tvg-id="БНТ 1 HD.bg" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_of_BNT_1_%282018-%29.svg",BNT 1
 https://cdn11.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1768152233&hash=zBa2OvcYrJlmwzkcgSMLMA
 
 #EXTINF:-1 tvg-id="БНТ 2 HD.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_of_BNT_2_%282018-%29.svg",BNT 2
