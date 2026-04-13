@@ -117,10 +117,10 @@ https://cdn3.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1767449615&hash=u5MEUJ
 #EXTINF:-1 tvg-id="AXN.bg" tvg-chno="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
 https://cdn11.glebul.com/hls/axn/index.m3u8?e=1767450259&hash=m2o9JZxZ_A8lDP2FGAd-GQ
 
-#EXTINF:-1 tvg-id="AXN.Black.bg" tvg-chno="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/2560px-AXN_Black_logo_%282015%29.svg.png",AXN Black
+#EXTINF:-1 tvg-id="AXN Black.bg" tvg-chno="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/2560px-AXN_Black_logo_%282015%29.svg.png",AXN Black
 https://cdn11.glebul.com/hls/axn-black/index.m3u8?e=1767450272&hash=0J_R-haZt4L2HbaBd_eu1A
 
-#EXTINF:-1 tvg-id="AXN.White.bg" tvg-chno="41" tvg-logo="https://en.wikipedia.org/wiki/AXN_White#/media/File:AXN_White_logo_(2015).svg",AXN White
+#EXTINF:-1 tvg-id="AXN White.bg" tvg-chno="41" tvg-logo="https://en.wikipedia.org/wiki/AXN_White#/media/File:AXN_White_logo_(2015).svg",AXN White
 https://cdn11.glebul.com/hls/axn-white/index.m3u8?e=1767450291&hash=RMqtrLWUQV7c9uC1h3sjlQ
 
 #EXTINF:-1 tvg-id="Disney.bg" tvg-chno="42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg",Disney Channel
