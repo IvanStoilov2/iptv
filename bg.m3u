@@ -1,208 +1,208 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="БНТ 1 HD.bg" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_of_BNT_1_%282018-%29.svg",BNT 1
-https://cdn11.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1777089938&hash=WzRr5R5qjVr8o37-03MPRA
+https://cdn11.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1777095166&hash=MnPOFlqTNEyKZQY7Pnv9Hw
 
 #EXTINF:-1 tvg-id="bTV HD.bg" tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/BTV_Bulgaria_logo.svg",BTV HD
-https://cdn3.glebul.com/hls/hd-btv-hd/index.m3u8?e=1777089963&hash=f1aOg_djn7Zgvsas46Goeg
+https://cdn11.glebul.com/hls/hd-btv-hd/index.m3u8?e=1777095191&hash=vtbyUN4LtYCZ_TRk-rAIcg
 
 #EXTINF:-1 tvg-id="Нова HD.bg" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Nova_logo_re.svg",NOVA HD
-https://cdn3.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1777089988&hash=5U9yflslwEgyWhnxp4h-IA
+https://cdn11.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1777095215&hash=GCitB4VqTZUHLA1hW92DYA
 
 #EXTINF:-1 tvg-id="bTV Action HD.bg" tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/BTV_Action_Bulgaria_logo.svg",BTV Action HD
-https://cdn11.glebul.com/hls/hd-btv-action-hd/index.m3u8?e=1777090012&hash=JzCCN2-0Qob6-7afzGoaJQ
+https://cdn11.glebul.com/hls/hd-btv-action-hd/index.m3u8?e=1777095240&hash=23kPKsJoq2EbpQ25NPCr2Q
 
 #EXTINF:-1 tvg-id="bTV Cinema HD.bg" tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/BTV_Cinema_2016_logo.png",BTV Cinema HD
-https://cdn11.glebul.com/hls/btv-cinema/index.m3u8?e=1777090037&hash=bKx-S9QSteo3WSTUBHRBpg
+https://cdn3.glebul.com/hls/btv-cinema/index.m3u8?e=1777095265&hash=WWZWOrdrKQwhXHIcCz-rqg
 
 #EXTINF:-1 tvg-id="bTV Comedy HD.bg" tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/BTV_Comedy_Bulgaria_logo.svg",BTV Comedy HD
-https://cdn3.glebul.com/hls/hd-btv-comedy-hd/index.m3u8?e=1777090061&hash=MX3G3x5G_Jdhe1wSxnEtIQ
+https://cdn11.glebul.com/hls/hd-btv-comedy-hd/index.m3u8?e=1777095289&hash=e7WhSijiOOFe3arLs7xWhQ
 
 #EXTINF:-1 tvg-id="Diema HD.bg" tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Diema_Bulgaria_logo.svg",Diema HD
-https://cdn3.glebul.com/hls/hd-diema-hd/index.m3u8?e=1777090087&hash=KtVt70whvR9Ae3b6whTLCw
+https://cdn11.glebul.com/hls/hd-diema-hd/index.m3u8?e=1777095314&hash=NcCdYjtwYSM5mqMwsEG0fA
 
 #EXTINF:-1 tvg-id="kinonova.bg" tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Kino_Nova_Bulgaria_logo.svg",Kino Nova
-https://cdn3.glebul.com/hls/kino-nova/index.m3u8?e=1777090111&hash=Sg1UYv4knr_L7ry5VyOXtQ
+https://cdn11.glebul.com/hls/kino-nova/index.m3u8?e=1777095339&hash=ovI_NjqqkITUSu4Es9GBTA
 
 #EXTINF:-1 tvg-id="БНТ 2 HD.bg" tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_of_BNT_2_%282018-%29.svg",BNT 2
-https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1777090136&hash=uwhCvnlUeOZBkyNXck_xUg
+https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1777095364&hash=p_38Z47QXNhbnqYllo435w
 
 #EXTINF:-1 tvg-id="БНТ 3 HD.bg" tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_of_BNT_3_%282018-%29.svg",BNT 3
-https://cdn3.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1777090160&hash=6U-ufKZoSOyay54YppMRSw
+https://cdn3.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1777095389&hash=xfLBRknsGixeUdwdRSRJxg
 
 #EXTINF:-1 tvg-id="БНТ 4 HD.bg" tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_of_BNT_4_%282018-%29.svg",BNT 4
-https://cdn3.glebul.com/hls/bnt-4/index.m3u8?e=1777090185&hash=hC5Qy8EoUqfDiyI7EpBjxA
+https://cdn3.glebul.com/hls/bnt-4/index.m3u8?e=1777095414&hash=PVi95y46P91fFtRfyBgV_A
 
 #EXTINF:-1 tvg-id="Diema Family HD.bg" tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Diema_Family_Bulgaria_logo.svg/2048px-Diema_Family_Bulgaria_logo.svg.png",Diema Family HD
-https://cdn3.glebul.com/hls/hd-diema-family-hd/index.m3u8?e=1777090210&hash=XmDhBT44QNyaE451Qgkm5A
+https://cdn11.glebul.com/hls/hd-diema-family-hd/index.m3u8?e=1777095438&hash=9x2ofy4Y-DscxXczg3eTWg
 
 #EXTINF:-1 tvg-id="bTV Story HD.bg" tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Crop-logo-btv-story.svg",BTV Story HD
-https://cdn3.glebul.com/hls/btv-story/index.m3u8?e=1777090235&hash=yxb-OLulm-5XQGgRk5ZQWA
+https://cdn11.glebul.com/hls/btv-story/index.m3u8?e=1777095463&hash=FH2tg-8NLvK-DaQHs18fNQ
 
 #EXTINF:-1 tvg-id="Diema Sport HD.bg" tvg-chno="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/DiemaSport-logo.svg",Diema Sport HD
-https://cdn3.glebul.com/hls/hd-diema-sport-hd/index.m3u8?e=1777090259&hash=VebaA67oWoLUh_yei2brEw
+https://cdn3.glebul.com/hls/hd-diema-sport-hd/index.m3u8?e=1777095488&hash=U_eiQUIuoUh2U3rj7aMGvQ
 
 #EXTINF:-1 tvg-id="Diema Sport 2 HD.bg" tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DiemaSport2-logo.svg",Diema Sport 2 HD
-https://cdn3.glebul.com/hls/hd-diema-sport-2-hd/index.m3u8?e=1777090284&hash=lK_iu5HUpTIETIZ64ZJumw
+https://cdn11.glebul.com/hls/hd-diema-sport-2-hd/index.m3u8?e=1777095512&hash=enFEw-pQJFzlS5qd777O_A
 
 #EXTINF:-1 tvg-id="Diema Sport 3 HD.bg" tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",Diema Sport 3 HD
-https://cdn11.glebul.com/hls/hd-diema-sport-3-hd/index.m3u8?e=1777090308&hash=8MGAIZQ2pR_oVNFfHaEp4A
+https://cdn3.glebul.com/hls/hd-diema-sport-3-hd/index.m3u8?e=1777095537&hash=-OGpKz2a9bvmW8mMl-7xFw
 
 #EXTINF:-1 tvg-id="MAX Sport 1 HD.bg" tvg-chno="17" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-1-logo-1024x182.png",Max Sport 1 HD
-https://cdn3.glebul.com/hls/hd-max-sport-1-hd/index.m3u8?e=1777090333&hash=uOZ7Mc5xSeWbBLHXLspB7Q
+https://cdn11.glebul.com/hls/hd-max-sport-1-hd/index.m3u8?e=1777095562&hash=CGZO1eSrMt2AaaCT4smL1A
 
 #EXTINF:-1 tvg-id="MAX Sport 2 HD.bg" tvg-chno="18" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-2-logo-1024x182.png",Max Sport 2 HD
-https://cdn3.glebul.com/hls/hd-max-sport-2-hd/index.m3u8?e=1777090358&hash=Nfd_JULosIqN8H3rIKrx-A
+https://cdn3.glebul.com/hls/hd-max-sport-2-hd/index.m3u8?e=1777095586&hash=XpUXOoNGve3LPOzmDXoDNg
 
 #EXTINF:-1 tvg-id="MAX Sport 3 HD.bg" tvg-chno="19" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-3-logo-1024x182.png",Max Sport 3 HD
-https://cdn3.glebul.com/hls/hd-max-sport-3-hd/index.m3u8?e=1777090382&hash=rQo-tN6esjU0Y__UeUhIxA
+https://cdn3.glebul.com/hls/hd-max-sport-3-hd/index.m3u8?e=1777095611&hash=1CwWrHgHVsBYXUbNH5HSCg
 
 #EXTINF:-1 tvg-id="MAX Sport 4 HD.bg" tvg-chno="20" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-4-logo-1024x182.png",Max Sport 4 HD
-https://cdn3.glebul.com/hls/hd-max-sport-4-hd/index.m3u8?e=1777090410&hash=Gb5uEshkTnBXPfyuhCpvDw
+https://cdn3.glebul.com/hls/hd-max-sport-4-hd/index.m3u8?e=1777095636&hash=eoyDepT5ThNpDFxuj3ltbg
 
 #EXTINF:-1 tvg-id="Eurosport 1 HD.bg" tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1 HD
-https://cdn3.glebul.com/hls/hd-eurosport-1-hd/index.m3u8?e=1777090437&hash=hfE-qDVpEvfR2jLbSMU4Ag
+https://cdn11.glebul.com/hls/hd-eurosport-1-hd/index.m3u8?e=1777095660&hash=7DW0wjG0xFgVXucQbcsX0Q
 
 #EXTINF:-1 tvg-id="Eurosport 2 HD.bg" tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2 HD
-https://cdn11.glebul.com/hls/hd-eurosport-2-hd/index.m3u8?e=1777090464&hash=lz9N3iFeHXiHEH_kq3V16g
+https://cdn3.glebul.com/hls/hd-eurosport-2-hd/index.m3u8?e=1777095685&hash=qYlY95tppr5dusJ8ofp6eg
 
 #EXTINF:-1 tvg-id="Ring HD.bg" tvg-chno="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/RING_Bulgaria_logo.svg",Ring BG HD
-https://cdn3.glebul.com/hls/hd-ring-bg-hd/index.m3u8?e=1777090491&hash=VKt0okI7Cxzz5ZRU8o_4aQ
+https://cdn3.glebul.com/hls/hd-ring-bg-hd/index.m3u8?e=1777095710&hash=r6kxglME3lauKm2IDY0jdg
 
 #EXTINF:-1 tvg-id="24 Kitchen HD.bg" tvg-chno="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/24kitchen.png",24 Kitchen HD
-https://cdn11.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1777090518&hash=A5TgvTovd0VvlLRGcWnkrA
+https://cdn11.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1777095734&hash=QXxgvL12OUUl3gBB6V9vkw
 
 #EXTINF:-1 tvg-id="BulgariaOnAir HD.bg" tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Bulgaria_On_Air_TV_logo.svg",Bulgaria On Air
-https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1777090545&hash=DRdyRukAzG3vZ16EdQJYMg
+https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1777095759&hash=4Mum92nwycP7c7xW4EPyOA
 
 #EXTINF:-1 tvg-id="Euronews BG HD.bg" tvg-chno="26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/EuronewsBG_logo.svg",Euronews Bulgaria HD
-https://cdn3.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1777090570&hash=Fe3-8iTs5f5pJjjGHFl3oA
+https://cdn3.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1777095784&hash=vZfeobSU-6BebunEtxHgkw
 
 #EXTINF:-1 tvg-id="Bloomberg BG.bg" tvg-chno="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_of_Bloomberg_TV_Bulgaria.png",Bloomberg TV
-https://cdn3.glebul.com/hls/bloomberg-tv/index.m3u8?e=1777090594&hash=m_hHYBkRCWWfcVt5Rzeu3Q
+https://cdn3.glebul.com/hls/bloomberg-tv/index.m3u8?e=1777095809&hash=98vhikWgHWbHVFzV-sjV7g
 
 #EXTINF:-1 tvg-id="Nova News HD.bg" tvg-chno="28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Nova_News_Bulgaria_logo.svg",Nova News HD
-https://cdn11.glebul.com/hls/hd-nova-news-hd/index.m3u8?e=1777090619&hash=f65fWoFHw3n6f_zLRlcm0A
+https://cdn11.glebul.com/hls/hd-nova-news-hd/index.m3u8?e=1777095833&hash=iZDzs5NjzrayWGw_kLS5HA
 
 #EXTINF:-1 tvg-id="Nova Sport HD.bg" tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nova_Sport_Bulgaria_logo.svg",Nova Sport HD
-https://cdn11.glebul.com/hls/hd-nova-sport-hd/index.m3u8?e=1777090644&hash=QlyMcbyq-Uhz42YNUVR6tw
+https://cdn3.glebul.com/hls/hd-nova-sport-hd/index.m3u8?e=1777095859&hash=nmRcaDMFHcHwZ0JGdTEuRQ
 
 #EXTINF:-1 tvg-id="Kanal3.bg" tvg-chno="30" tvg-logo="https://live.kanal3.org/wp-content/uploads/2024/03/cropped-K3-Logo-100x100-1.png",Kanal 3
-https://cdn3.glebul.com/hls/kanal-3/index.m3u8?e=1777090668&hash=0gjB775q2VQEZf05fmfxQw
+https://cdn11.glebul.com/hls/kanal-3/index.m3u8?e=1777095883&hash=Whz34M-pcI7dTsJYB97KpQ
 
 #EXTINF:-1 tvg-id="TV 1 HD.bg" tvg-chno="31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/TV1_%28Bulgaria%29.png",TV 1
-https://cdn3.glebul.com/hls/tv-1/index.m3u8?e=1777090693&hash=Y6sO7H1N2JFxHdzxPdSAzg
+https://cdn11.glebul.com/hls/tv-1/index.m3u8?e=1777095909&hash=QUmcqDA1Ix1AWBLSs_rhkw
 
 #EXTINF:-1 tvg-id="VTK.bg" tvg-chno="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Vtktv1.png",VTK
-https://cdn3.glebul.com/hls/vtk/index.m3u8?e=1777090717&hash=tTT28D4mT4rmbS6-dH8klA
+https://cdn3.glebul.com/hls/vtk/index.m3u8?e=1777095934&hash=_WIrQyAteBRXDqUdb4yHQQ
 
 #EXTINF:-1 tvg-id="7/8 TV HD.bg" tvg-chno="33" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/7-8_TV.svg/revision/latest?cb=20210516111115",7/8 TV HD
-https://cdn3.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1777090742&hash=jaRUpk5Ee0hz_zK4rrsGnQ
+https://cdn11.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1777095958&hash=BcozzuwZZONlZ6tdklWoPA
 
 #EXTINF:-1 tvg-id="СКАТ.bg" tvg-chno="34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/%D0%A1%D0%9A%D0%90%D0%A2_logo.png",СКАТ
-https://cdn3.glebul.com/hls/skat/index.m3u8?e=1777090766&hash=GEE5rUtncbUpkkiQoEjYkg
+https://cdn3.glebul.com/hls/skat/index.m3u8?e=1777095983&hash=96k__y8B8_cg2IZOcsaMIA
 
 #EXTINF:-1 tvg-id="Евроком HD.bg" tvg-chno="35" tvg-logo="https://eurocom.bg/wp-content/uploads/2025/11/eurocom_logo_512.png",Евроком
 https://live.ecomservice.bg/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="STAR Channel HD.bg" tvg-chno="36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Star_Channel_2023.svg",Star Channel HD
-https://cdn3.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1777090791&hash=c3hGgRSKeBBj6Sb8i9jgbA
+https://cdn11.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1777096008&hash=zrynI404-TK3DI_LVcELhw
 
 #EXTINF:-1 tvg-id="STAR Life HD.bg" tvg-chno="37" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Star_Life_2021.svg",Star Life HD
-https://cdn11.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1777090816&hash=agP18-4UwzoTZBSLKPnvVA
+https://cdn3.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1777096032&hash=Xee4swdDI15JTVKvkG7CyA
 
 #EXTINF:-1 tvg-id="STAR Crime HD.bg" tvg-chno="38" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Star_Crime_2021.svg",Star Crime HD
-https://cdn11.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1777090840&hash=6_g3320U--ydyY_RSkp-Jw
+https://cdn3.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1777096057&hash=iyZ4jPHtb-BXELJUNwLr4Q
 
 #EXTINF:-1 tvg-id="AXN.bg" tvg-chno="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
-https://cdn11.glebul.com/hls/axn/index.m3u8?e=1777090865&hash=_WAlORz55VD-JLnOB7UlRQ
+https://cdn11.glebul.com/hls/axn/index.m3u8?e=1777096082&hash=gZHh_Gp2niGUz6P7bbddnw
 
 #EXTINF:-1 tvg-id="AXN Black.bg" tvg-chno="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/2560px-AXN_Black_logo_%282015%29.svg.png",AXN Black
-https://cdn3.glebul.com/hls/axn-black/index.m3u8?e=1777090889&hash=PU3pzeVqz-51ijKT4Fi06g
+https://cdn3.glebul.com/hls/axn-black/index.m3u8?e=1777096107&hash=mV1iWDGUTTBZ31bvedVTEg
 
 #EXTINF:-1 tvg-id="AXN White.bg" tvg-chno="41" tvg-logo="https://en.wikipedia.org/wiki/AXN_White#/media/File:AXN_White_logo_(2015).svg",AXN White
-https://cdn3.glebul.com/hls/axn-white/index.m3u8?e=1777090914&hash=FY2PMxm5A_IcxSkMKekcIw
+https://cdn3.glebul.com/hls/axn-white/index.m3u8?e=1777096131&hash=iQBkLZhqLrxDz1b-1AJrcQ
 
 #EXTINF:-1 tvg-id="Disney.bg" tvg-chno="42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg",Disney Channel
-https://cdn3.glebul.com/hls/disney-channel/index.m3u8?e=1777090938&hash=ZEXdb8lar4kgxKKwgh9cZA
+https://cdn3.glebul.com/hls/disney-channel/index.m3u8?e=1777096156&hash=577ojLyw4fjsrTq1aaN9rw
 
 #EXTINF:-1 tvg-id="Cartoon Network.bg" tvg-chno="43" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",Cartoon Network
-https://cdn11.glebul.com/hls/cartoon-network/index.m3u8?e=1777090963&hash=J_JWVjoZ5yOlmLk7FzF7Xg
+https://cdn11.glebul.com/hls/cartoon-network/index.m3u8?e=1777096181&hash=2-y5bRrd9zf1a92ffB-Cyg
 
 #EXTINF:-1 tvg-id="E-Kids.bg" tvg-chno="44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/EKids.png",eKids
-https://cdn11.glebul.com/hls/e-kids/index.m3u8?e=1777090988&hash=q20F6fpsEBbZVNXd4BCikg
+https://cdn11.glebul.com/hls/e-kids/index.m3u8?e=1777096205&hash=xQbEIUjQsse6mYYP9tN5eQ
 
 #EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-chno="45" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png",Nickelodeon
-https://cdn11.glebul.com/hls/nickelodeon/index.m3u8?e=1777091012&hash=5ok02bkEEsVrQ1P-96Ph0w
+https://cdn11.glebul.com/hls/nickelodeon/index.m3u8?e=1777096230&hash=3uZzd6hD3pfsIK5TZij7Cg
 
 #EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-chno="46" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png",Nickelodeon HD
-https://cdn11.glebul.com/hls/nickelodeon/index.m3u8?e=1777091037&hash=2wxNY0jjOKWBVuo85S4YDA
+https://cdn11.glebul.com/hls/nickelodeon/index.m3u8?e=1777096254&hash=55FQhhagRujVSU_hsLAAEQ
 
 #EXTINF:-1 tvg-id="Nick Junior.bg" tvg-chno="47" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nick_Jr._logo_2018.svg/2560px-Nick_Jr._logo_2018.svg.png",Nick Jr.
-https://cdn3.glebul.com/hls/nick-jr/index.m3u8?e=1777091062&hash=F8zsa-cmvA_iUY-1c68rAA
+https://cdn3.glebul.com/hls/nick-jr/index.m3u8?e=1777096279&hash=XZYesX5eP3bq3OlMqeiY1A
 
 #EXTINF:-1 tvg-id="Nicktoons.bg" tvg-chno="48" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",Nicktoons
-https://cdn3.glebul.com/hls/nicktoons/index.m3u8?e=1777091086&hash=4rxjwutcFpPcq791y7F4zA
+https://cdn3.glebul.com/hls/nicktoons/index.m3u8?e=1777096303&hash=1_YDhKAFFBmeepm9thF4EA
 
 #EXTINF:-1 tvg-id="City TV HD.bg" tvg-chno="49" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/City_tv_bulgaria.gif",City TV
-https://cdn3.glebul.com/hls/city-tv/index.m3u8?e=1777091111&hash=WOWX_RGvBApQTVTWY8xadA
+https://cdn11.glebul.com/hls/city-tv/index.m3u8?e=1777096328&hash=feuesQf1N50BMLUhIPwD5A
 
 #EXTINF:-1 tvg-id="The Voice HD.bg" tvg-chno="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/TheVoiceTV-logo.png",The Voice TV
-https://cdn11.glebul.com/hls/the-voice/index.m3u8?e=1777091136&hash=LoyHJHtzPrHKDlqb8NXNoA
+https://cdn3.glebul.com/hls/the-voice/index.m3u8?e=1777096353&hash=Nr9WNPwY3JnjFHa5vATVFw
 
 #EXTINF:-1 tvg-id="Magic TV HD.bg" tvg-chno="51" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vpyrqv1444742413.png",Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
 
 #EXTINF:-1 tvg-id="DSTV.bg" tvg-chno="52" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vpyxtx1441296450.png",DSTV
-https://cdn11.glebul.com/hls/dstv/index.m3u8?e=1777091161&hash=Ar-duKaHGVxZ8k8EmYsLdw
+https://cdn11.glebul.com/hls/dstv/index.m3u8?e=1777096377&hash=pqNBVNMjHGcE7Tza50c1iQ
 
 #EXTINF:-1 tvg-id="Планета HD.bg" tvg-chno="53" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Phd1.png/revision/latest?cb=20200517141118",Planeta HD
-https://cdn11.glebul.com/hls/hd-planeta-hd/index.m3u8?e=1777091185&hash=LtcjVZ8WQd1085ERwXUvWQ
+https://cdn3.glebul.com/hls/hd-planeta-hd/index.m3u8?e=1777096402&hash=9bE6u66SKf1rF76dl8tllw
 
 #EXTINF:-1 tvg-id="Планета Фолк HD.bg" tvg-chno="54" tvg-logo="https://predavatel.com/bg/4/dimitrovgrad_img/tv-planeta-folk2.png",Planeta Folk
-https://cdn11.glebul.com/hls/planeta-folk/index.m3u8?e=1777091210&hash=Mjfs0eUXE9aHL4kTs6wDKw
+https://cdn3.glebul.com/hls/planeta-folk/index.m3u8?e=1777096426&hash=tfsYe460gJ_Puzl3BJf2zA
 
 #EXTINF:-1 tvg-id="Folklor.bg" tvg-chno="55" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yquuqu1463601337.png",Folklor TV
-https://cdn11.glebul.com/hls/folklor-tv/index.m3u8?e=1777091234&hash=2iyuzN8lM0PCxy89dXt7Rw
+https://cdn11.glebul.com/hls/folklor-tv/index.m3u8?e=1777096451&hash=5IHvAUvLT7BoDDVvMX3cIA
 
 #EXTINF:-1 tvg-id="Rodina TV.bg" tvg-chno="56" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Rodina_tv_bg-1.png/revision/latest?cb=20200419055102",Rodina TV
-https://cdn3.glebul.com/hls/rodina-tv/index.m3u8?e=1777091259&hash=GTmxW74hwfnjlaMXjoaEuw
+https://cdn3.glebul.com/hls/rodina-tv/index.m3u8?e=1777096475&hash=sTEVQCjuXm8eaFzV8Eeiog
 
 #EXTINF:-1 tvg-id="Тянков Фолк.bg" tvg-chno="57" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Tiankovfolk.png/revision/latest/scale-to-width-down/200?cb=20200606064852",Тянков Фолк
-https://cdn3.glebul.com/hls/tiankov-tv/index.m3u8?e=1777091284&hash=ZzIYXIV47TVc0jYxnswiQQ
+https://cdn11.glebul.com/hls/tiankov-tv/index.m3u8?e=1777096500&hash=ii2LuraT2m061Zn7kP61Rg
 
 #EXTINF:-1 tvg-id="TiankovOrientFolk.bg" tvg-chno="58" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Tiankov-orientfolk.png/revision/latest?cb=20200419062550",Tiankov Orient Folk
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 
 #EXTINF:-1 tvg-id="Code Fashion TV.bg" tvg-chno="59" tvg-logo="https://codefashion.bg/wp-content/uploads/2025/06/codefashion-new-logo.png",Code Fashion TV HD
-https://cdn11.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1777091308&hash=T7IUvKlJZ1_3_5sWJfA7_g
+https://cdn3.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1777096525&hash=tcCbGaNWXXrA0xUU9TCyug
 
 #EXTINF:-1 tvg-id="Epic Drama HD.bg" tvg-chno="60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Epic_Drama.png",Epic Drama HD
-https://cdn3.glebul.com/hls/hd-epic-drama-hd/index.m3u8?e=1777091333&hash=O-Va-lftxoKiovxKyNnZ4g
+https://cdn3.glebul.com/hls/hd-epic-drama-hd/index.m3u8?e=1777096553&hash=2r4mIWJsgm8qKU86tZJy1g
 
 #EXTINF:-1 tvg-id="Food Network HD.bg" tvg-chno="61" tvg-logo="https://en.wikipedia.org/wiki/Food_Network#/media/File:Food_Network_logo.svg",Food Network HD
-https://cdn3.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1777091357&hash=N272Ja1MuN7TJYwA0RO6cA
+https://cdn3.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1777096578&hash=kdKxTiXjDJuo72SZvBt90w
 
 #EXTINF:-1 tvg-id="ID Extra HD.bg" tvg-chno="62" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Id_xtra_large.jpg",ID Xtra HD
-https://cdn3.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1777091382&hash=0r7BGRf4KDFeQyinC7TfZg
+https://cdn3.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1777096603&hash=mr6e6st7Z3jtWvk2I1lkvQ
 
 #EXTINF:-1 tvg-id="TLC HD.bg" tvg-chno="63" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png",TLC
-https://cdn3.glebul.com/hls/tlc/index.m3u8?e=1777091407&hash=CA0ZEETttKkR9Kt-JYolvw
+https://cdn11.glebul.com/hls/tlc/index.m3u8?e=1777096627&hash=TVpuzEWtSbnQQC9p4X8IIA
 
 #EXTINF:-1 tvg-id="Nat Geo HD.bg" tvg-chno="64" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nat_Geo_HD_Logo.svg",Nat Geo HD
-https://cdn3.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1777091431&hash=7ePNqFhBrhbMc1weTpTX_A
+https://cdn3.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1777096652&hash=j8lA6b9oCXcXNdKe8xQJ9g
 
 #EXTINF:-1 tvg-id="NG Wild HD.bg" tvg-chno="65" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_Nat_Geo_Wild.svg",Nat Geo Wild HD
-https://cdn3.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1777091456&hash=uSp2pE1xd_PK7XLHfdJLVw
+https://cdn11.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1777096677&hash=prKP0idYA-Pt_vFyHphf7A
 
 #EXTINF:-1 tvg-id="Discovery HD.bg" tvg-chno="66" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel HD
-https://cdn3.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1777091481&hash=aTDobE1k47qQLNP5FJo_JA
+https://cdn11.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1777096701&hash=6ep7t5u34S3pox7LRlqSMw
 
 #EXTINF:-1 tvg-id="Travel TV.bg" tvg-chno="67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TravelTV-logo.png",Travel TV
-https://cdn11.glebul.com/hls/travel-tv/index.m3u8?e=1777091505&hash=CsEWpG83wkLCdzzPd3LK7g
+https://cdn3.glebul.com/hls/travel-tv/index.m3u8?e=1777096726&hash=dAmiaW5KEfIzegpIo8ytZQ
 
 #EXTINF:-1 tvg-id="Travel Channel HD.bg" tvg-chno="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2560px-Travel_Channel_-_Logo.svg.png",Travel Channel HD
-https://cdn11.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1777091530&hash=vXUf8cstabtj8iSJCJYt7g
+https://cdn3.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1777096750&hash=94Flbcs_gBEAk6jVb_bU3Q
 
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" tvg-chno="69" tvg-logo="",This is Bulgaria HD
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
