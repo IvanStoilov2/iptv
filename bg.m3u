@@ -213,5 +213,5 @@ https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PPTV HD.bg" tvg-chno="71" tvg-logo="https://static.wikia.nocookie.net/telepedia/images/d/d0/Pptv.png/revision/latest/thumbnail/width/360/height/450?cb=20180205202524&path-prefix=bg",Plovdivska Pravoslavna TV
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Агро ТВ.bg" tvg-chno="72" tvg-logo="",Agro TV
+#EXTINF:-1 tvg-id="Агро ТВ.bg" tvg-chno="72" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Agro_TV_logo.png",Agro TV
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
