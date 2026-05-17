@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.gledaitv.fan/
+
 #EXTINF:-1 tvg-id="БНТ 1 HD.bg" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_of_BNT_1_%282018-%29.svg",BNT 1
 https://cdn13.stgledai.org/bnt/index.m3u8?token=827b8f82f0793bb2699311be1feffba0259c9ccb-c3788ad458f86a98150369f62cb488b7-1779014884-1779004084
 https://cdn13.stgledai.org/bnt/tracks-v1a1/mono.m3u8?token=827b8f82f0793bb2699311be1feffba0259c9ccb-c3788ad458f86a98150369f62cb488b7-1779014884-1779004084
