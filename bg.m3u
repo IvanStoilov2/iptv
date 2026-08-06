@@ -70,13 +70,13 @@ https://cdn3.glebul.com/hls/hd-eurosport-2-hd/index.m3u8?e=1767449521&hash=_2B2R
 https://cdn3.glebul.com/hls/hd-ring-bg-hd/index.m3u8?e=1767450070&hash=NzoVqnWBln3gxQFbi1Qkuw
 
 #EXTINF:-1 tvg-id="24 Kitchen HD.bg" tvg-chno="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/24kitchen.png",24 Kitchen HD
-https://cdn3.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1786041920&hash=YpIljU6x5jJEBsPGobqpUg
+https://cdn11.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1767450241&hash=IwXCWkrNF1V_0DVCvhVZ4A
 
 #EXTINF:-1 tvg-id="BulgariaOnAir HD.bg" tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Bulgaria_On_Air_TV_logo.svg",Bulgaria On Air
-https://ro.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1786041938&hash=HyP58lLJ5UJazisjFNGpUA
+https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1767449279&hash=0dsnV3SrCXGtKoRGBxV7XQ
 
 #EXTINF:-1 tvg-id="Euronews BG HD.bg" tvg-chno="26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/EuronewsBG_logo.svg",Euronews Bulgaria HD
-https://ro.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1786041960&hash=_u3wa_IGZVU5Vgz1BEZY8A
+https://cdn3.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1767449543&hash=qze1FJCz1c1-7RABOcWzWg
 
 #EXTINF:-1 tvg-id="Bloomberg BG.bg" tvg-chno="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_of_Bloomberg_TV_Bulgaria.png",Bloomberg TV
 https://cdn11.glebul.com/hls/bloomberg-tv/index.m3u8?e=1767450304&hash=Kqg3-dHl1PIux1VzoWwEAA
@@ -97,10 +97,10 @@ https://cdn3.glebul.com/hls/tv-1/index.m3u8?e=1767450214&hash=U6GedB6E26AzXMiQgZ
 https://cdn3.glebul.com/hls/vtk/index.m3u8?e=1767450227&hash=DGLAjykcErfSBSnVUVWfVw
 
 #EXTINF:-1 tvg-id="7/8 TV HD.bg" tvg-chno="33" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/7-8_TV.svg/revision/latest?cb=20210516111115",7/8 TV HD
-https://cdn3.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1786042084&hash=n8geJZqMoJZeduPlZ0-udw
+https://cdn11.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1767450109&hash=eSJMGd_ilB3BYt9PZDmrLg
 
 #EXTINF:-1 tvg-id="СКАТ.bg" tvg-chno="34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/%D0%A1%D0%9A%D0%90%D0%A2_logo.png",СКАТ
-https://ro.glebul.com/hls/skat/index.m3u8?e=1786042110&hash=6NCQ7VINlGVcoJGt17lX4w
+https://cdn3.glebul.com/hls/skat/index.m3u8?e=1767450127&hash=HftKeTAWKGazQfKB2pKx_Q
 
 #EXTINF:-1 tvg-id="Евроком HD.bg" tvg-chno="35" tvg-logo="https://eurocom.bg/wp-content/uploads/2025/11/eurocom_logo_512.png",Евроком
 https://live.ecomservice.bg/hls/stream.m3u8
@@ -121,7 +121,7 @@ https://cdn11.glebul.com/hls/axn/index.m3u8?e=1767450259&hash=m2o9JZxZ_A8lDP2FGA
 https://cdn11.glebul.com/hls/axn-black/index.m3u8?e=1767450272&hash=0J_R-haZt4L2HbaBd_eu1A
 
 #EXTINF:-1 tvg-id="AXN White.bg" tvg-chno="41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/AXN_White_logo_%282015%29.svg",AXN White
-https://ro.glebul.com/hls/axn-white/index.m3u8?e=1786042217&hash=hbg2FHSB1zN3jh1CLsZSlg
+https://cdn11.glebul.com/hls/axn-white/index.m3u8?e=1767450291&hash=RMqtrLWUQV7c9uC1h3sjlQ
 
 #EXTINF:-1 tvg-id="Disney.bg" tvg-chno="42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel
 https://cdn3.glebul.com/hls/disney-channel/index.m3u8?e=1767450858&hash=7jfZyULwuWnDgTU-rF64oA
@@ -175,7 +175,7 @@ https://cdn3.glebul.com/hls/tiankov-tv/index.m3u8?e=1767450948&hash=py3igyLmyC55
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 
 #EXTINF:-1 tvg-id="Code Fashion TV.bg" tvg-chno="59" tvg-logo="https://codefashion.bg/wp-content/uploads/2025/06/codefashion-new-logo.png",Code Fashion TV HD
-https://cdn3.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1786042489&hash=f7kYN5fjCzpJZHExUWdNtQ
+https://cdn11.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1767449331&hash=C2M87VIyeSD64ESGk0yRPQ
 
 #EXTINF:-1 tvg-id="Epic Drama HD.bg" tvg-chno="60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Epic_Drama.png",Epic Drama HD
 https://cdn3.glebul.com/hls/hd-epic-drama-hd/index.m3u8?e=1767449479&hash=CMrWqzROq6Fls4BuNr0wLA
@@ -184,7 +184,7 @@ https://cdn3.glebul.com/hls/hd-epic-drama-hd/index.m3u8?e=1767449479&hash=CMrWqz
 https://cdn11.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1767449582&hash=TdFPirLVoN3dGtxv2xB4Ng
 
 #EXTINF:-1 tvg-id="ID Extra HD.bg" tvg-chno="62" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Id_xtra_large.jpg",ID Xtra HD
-https://ro.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1786042544&hash=PHxEG4hI9wRT_jjY9DLt1A
+https://cdn11.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1767449677&hash=bHie6SArlsbhPbXXp7I_fw
 
 #EXTINF:-1 tvg-id="TLC HD.bg" tvg-chno="63" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png",TLC
 https://cdn3.glebul.com/hls/tlc/index.m3u8?e=1767450159&hash=nFZAhztjPU781n7vhSY_lw
